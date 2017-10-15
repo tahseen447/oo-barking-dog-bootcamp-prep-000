@@ -5,11 +5,10 @@ class Dog
   end
 
 def bark
-  puts "Woof"
+  puts "woof"
 end
 
 def name=(new_name)
   @name = new_name
 end
 end
-
